@@ -1,0 +1,139 @@
+body {
+    background-color: rgb(40, 40, 40);
+}
+#ParteAzul {
+    background-color: cadetblue;
+    width: 200px;
+    padding-right: 135px;
+    padding-bottom: 10px;
+    padding-left: 135px;
+    margin-top: 50px;
+    margin-left: 400px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    background-image: linear-gradient(to bottom right,rgb(31, 148, 221), rgb(173, 198, 215));
+}
+#h2azul {
+    color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+#h3azul {
+    color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+#imagen {
+    width: 150px;
+    border-radius: 100px;
+    border-color: aliceblue;
+    position: relative;
+    left: 25px;
+    top: 27px;
+}
+#parteblanca {
+    background-color: rgb(255, 255, 255);
+    width: 440px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-top: 10px;
+    margin-left: 400px;
+    }
+#textoblanco {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+}
+#hola1 {
+    border-style: solid;
+    border-color: rgb(53, 122, 201);
+    background-color: rgb(203, 221, 240);
+    border-radius: 50px;
+    padding: 10px;
+    width: 45px;
+    position: relative;
+    left: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+#hola2 {
+    border-style: solid;
+    border-color: rgb(53, 122, 201);
+    background-color: rgb(203, 221, 240);
+    border-radius: 50px;
+    padding: 10px;
+    width: 45px;
+    position: absolute;
+    left: 590px;
+    bottom: 192px;
+    margin-bottom: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+#hola3 {
+    border-style: solid;
+    border-color: rgb(53, 122, 201);
+    background-color: rgb(203, 221, 240);
+    border-radius: 50px;
+    padding: 10px;
+    width: 100px;
+    bottom: 192px;
+    position: absolute;
+    left: 710px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin-bottom: 5px;
+}
+#cajanaranja {
+    border-style: solid;
+    border-color: rgb(228, 182, 126);
+    background-color: rgb(255, 242, 210);
+    border-radius: 20px;
+    padding: 15px;
+    padding-top: 5px;
+    padding-left: 15px;
+}
+#contacto {
+    margin-bottom: 25px;
+    color: rgb(121, 85, 56);
+}
+.fuerte {
+    color: rgb(121, 85, 56);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#partegris {
+    background-color: rgb(242, 242, 242);
+    width: 440px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-top: 10px;
+    margin-left: 400px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    }
+#verperfil {
+    border-style: solid;
+    border-color: rgb(7, 86, 177);
+    background-color: rgb(4, 105, 213);
+    border-radius: 20px;
+    padding: 5px;
+    width: 105px;
+    position: relative;
+    left: 150px;
+    text-align: center;
+    }
+#perfil {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    }
+#textofinal {
+    text-align: center;
+    font-size: 14px;
+    color: rgb(120, 120, 120);
+}
